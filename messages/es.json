@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "getQuote": "Obtener presupuesto"
+  },
+  "blog": {
+    "readMore": "Leer más",
+    "publishedOn": "Publicado el",
+    "updatedOn": "Actualizado el",
+    "minuteRead": "min de lectura",
+    "tags": "Etiquetas",
+    "relatedPosts": "Artículos relacionados"
+  },
+  "services": {
+    "getInstantQuote": "Obtener presupuesto",
+    "viewSample": "Ver muestra",
+    "learnMore": "Más información",
+    "startNow": "Comenzar ahora"
+  },
+  "forms": {
+    "submit": "Enviar",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "wordCount": "Número de palabras",
+    "serviceLevel": "Nivel de servicio"
+  },
+  "errors": {
+    "notFound": "Página no encontrada",
+    "serverError": "Algo salió mal",
+    "tryAgain": "Intentar de nuevo"
+  }
+}

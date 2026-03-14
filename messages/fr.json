@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "pricing": "Tarifs",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getQuote": "Obtenir un devis"
+  },
+  "blog": {
+    "readMore": "Lire la suite",
+    "publishedOn": "Publié le",
+    "updatedOn": "Mis à jour le",
+    "minuteRead": "min de lecture",
+    "tags": "Étiquettes",
+    "relatedPosts": "Articles connexes"
+  },
+  "services": {
+    "getInstantQuote": "Devis instantané",
+    "viewSample": "Voir un exemple",
+    "learnMore": "En savoir plus",
+    "startNow": "Commencer maintenant"
+  },
+  "forms": {
+    "submit": "Envoyer",
+    "name": "Nom",
+    "email": "E-mail",
+    "message": "Message",
+    "wordCount": "Nombre de mots",
+    "serviceLevel": "Niveau de service"
+  },
+  "errors": {
+    "notFound": "Page introuvable",
+    "serverError": "Une erreur est survenue",
+    "tryAgain": "Réessayer"
+  }
+}

@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-brand-green: #1B5E20;
+  --color-brand-green-light: #66BB6A;
+  --color-brand-navy: #0D1B2A;
+  --color-brand-orange: #E65100;
+  --color-brand-amber: #FFB300;
+  --color-brand-off-white: #F9F9F6;
+  --color-brand-gray: #757575;
+  --color-brand-charcoal: #212121;
+  --color-brand-teal-light: #E0F2F1;
+  --font-display: var(--font-montserrat);
+  --font-body: var(--font-inter);
+}

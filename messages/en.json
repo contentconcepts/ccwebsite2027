@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "blog": {
+    "readMore": "Read more",
+    "publishedOn": "Published on",
+    "updatedOn": "Updated on",
+    "minuteRead": "min read",
+    "tags": "Tags",
+    "relatedPosts": "Related Posts"
+  },
+  "services": {
+    "getInstantQuote": "Get Instant Quote",
+    "viewSample": "View Sample",
+    "learnMore": "Learn More",
+    "startNow": "Start Now"
+  },
+  "forms": {
+    "submit": "Submit",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "wordCount": "Word Count",
+    "serviceLevel": "Service Level"
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "serverError": "Something went wrong",
+    "tryAgain": "Try again"
+  }
+}
