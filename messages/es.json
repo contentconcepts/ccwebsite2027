@@ -14,13 +14,60 @@
     "updatedOn": "Actualizado el",
     "minuteRead": "min de lectura",
     "tags": "Etiquetas",
-    "relatedPosts": "Artículos relacionados"
+    "relatedPosts": "Artículos relacionados",
+    "noPosts": "Sin artículos por ahora. Vuelve pronto.",
+    "allPosts": "Todos los artículos",
+    "backToBlog": "Volver al blog"
   },
   "services": {
     "getInstantQuote": "Obtener presupuesto",
     "viewSample": "Ver muestra",
     "learnMore": "Más información",
-    "startNow": "Comenzar ahora"
+    "startNow": "Comenzar ahora",
+    "viewPricing": "Ver precios",
+    "howItWorks": "Cómo funciona",
+    "whatsIncluded": "Qué incluye",
+    "frequentlyAsked": "Preguntas frecuentes",
+    "readyToStart": "¿Listo para comenzar?",
+    "joinResearchers": "Únete a más de 10.000 investigadores que confían en ContentConcepts con su trabajo más importante."
+  },
+  "home": {
+    "heroTitle": "Perfecciona Tu Documento",
+    "heroSubtitle": "Servicios expertos de edición y corrección de textos académicos, tesis y documentos profesionales — por editores con doctorado.",
+    "trustedBy": "Valorado 4,9/5 por el 99% de los clientes · Con la confianza de más de 10.000 investigadores",
+    "getEdited": "Editar Mi Manuscrito",
+    "viewServices": "Ver servicios",
+    "ourServices": "Nuestros Servicios de Edición",
+    "servicesSubtitle": "Edición experta para todo tipo de documentos académicos y profesionales",
+    "whyChoose": "Por qué los investigadores eligen ContentConcepts",
+    "viewAllServices": "Ver los 11 servicios →",
+    "stats": {
+      "authorsServed": "Autores atendidos",
+      "customerRating": "Valoración de clientes",
+      "turnaround": "Tiempo de entrega",
+      "satisfaction": "Tasa de satisfacción"
+    },
+    "features": {
+      "phdEditors": "Editores con Doctorado",
+      "phdEditorsDesc": "Cada editor tiene un doctorado en su campo",
+      "fastTurnaround": "Entrega en 24–48h",
+      "fastTurnaroundDesc": "Entrega rápida sin comprometer la calidad",
+      "certificate": "Certificado de Edición",
+      "certificateDesc": "Aceptado por revistas internacionales",
+      "nativeEnglish": "Inglés Nativo",
+      "nativeEnglishDesc": "Todos los editores son hablantes nativos de inglés",
+      "confidential": "100% Confidencial",
+      "confidentialDesc": "Tu trabajo nunca se comparte ni se publica",
+      "affordable": "Precios asequibles",
+      "affordableDesc": "Tarifas transparentes sin cargos ocultos"
+    }
+  },
+  "about": {
+    "badge": "Establecida en 1998",
+    "title": "25 Años de Excelencia Académica",
+    "missionTitle": "Nuestra Misión",
+    "valuesTitle": "Nuestros Valores",
+    "meetEditors": "Conoce a Nuestros Editores"
   },
   "forms": {
     "submit": "Enviar",
@@ -34,5 +81,11 @@
     "notFound": "Página no encontrada",
     "serverError": "Algo salió mal",
     "tryAgain": "Intentar de nuevo"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "services": "Servicios",
+    "company": "Empresa",
+    "contact": "Contáctanos"
   }
 }

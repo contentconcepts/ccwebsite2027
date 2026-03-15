@@ -14,13 +14,60 @@
     "updatedOn": "Mis à jour le",
     "minuteRead": "min de lecture",
     "tags": "Étiquettes",
-    "relatedPosts": "Articles connexes"
+    "relatedPosts": "Articles connexes",
+    "noPosts": "Aucun article pour l'instant. Revenez bientôt.",
+    "allPosts": "Tous les articles",
+    "backToBlog": "Retour au blog"
   },
   "services": {
     "getInstantQuote": "Devis instantané",
     "viewSample": "Voir un exemple",
     "learnMore": "En savoir plus",
-    "startNow": "Commencer maintenant"
+    "startNow": "Commencer maintenant",
+    "viewPricing": "Voir les tarifs",
+    "howItWorks": "Comment ça marche",
+    "whatsIncluded": "Ce qui est inclus",
+    "frequentlyAsked": "Questions fréquentes",
+    "readyToStart": "Prêt à commencer ?",
+    "joinResearchers": "Rejoignez plus de 10 000 chercheurs qui font confiance à ContentConcepts pour leurs travaux les plus importants."
+  },
+  "home": {
+    "heroTitle": "Perfectionnez Votre Document",
+    "heroSubtitle": "Services experts de révision et correction pour manuscrits académiques, thèses et documents professionnels — par des éditeurs docteurs.",
+    "trustedBy": "Noté 4,9/5 par 99% des clients · Approuvé par plus de 10 000 chercheurs",
+    "getEdited": "Faire réviser mon manuscrit",
+    "viewServices": "Voir les services",
+    "ourServices": "Nos Services de Révision",
+    "servicesSubtitle": "Révision experte pour tous les types de documents académiques et professionnels",
+    "whyChoose": "Pourquoi les chercheurs choisissent ContentConcepts",
+    "viewAllServices": "Voir les 11 services →",
+    "stats": {
+      "authorsServed": "Auteurs accompagnés",
+      "customerRating": "Note client",
+      "turnaround": "Délai de livraison",
+      "satisfaction": "Taux de satisfaction"
+    },
+    "features": {
+      "phdEditors": "Éditeurs Docteurs",
+      "phdEditorsDesc": "Chaque éditeur est titulaire d'un doctorat dans son domaine",
+      "fastTurnaround": "Livraison en 24–48h",
+      "fastTurnaroundDesc": "Livraison rapide sans compromis sur la qualité",
+      "certificate": "Certificat de révision",
+      "certificateDesc": "Accepté par les revues internationales",
+      "nativeEnglish": "Anglais natif",
+      "nativeEnglishDesc": "Tous nos éditeurs sont anglophones natifs",
+      "confidential": "100% Confidentiel",
+      "confidentialDesc": "Votre travail n'est jamais partagé ni publié",
+      "affordable": "Prix abordables",
+      "affordableDesc": "Tarifs transparents sans frais cachés"
+    }
+  },
+  "about": {
+    "badge": "Fondée en 1998",
+    "title": "25 Ans d'Excellence Académique",
+    "missionTitle": "Notre Mission",
+    "valuesTitle": "Nos Valeurs",
+    "meetEditors": "Rencontrez Nos Éditeurs"
   },
   "forms": {
     "submit": "Envoyer",
@@ -34,5 +81,11 @@
     "notFound": "Page introuvable",
     "serverError": "Une erreur est survenue",
     "tryAgain": "Réessayer"
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "services": "Services",
+    "company": "Entreprise",
+    "contact": "Nous contacter"
   }
 }

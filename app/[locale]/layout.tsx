@@ -3,6 +3,8 @@ import { getMessages } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 import { Montserrat, Inter } from 'next/font/google'
 import type { ReactNode } from 'react'
+import { Header } from '@/components/layout/Header'
+import { Footer } from '@/components/layout/Footer'
 import '../../src/styles/globals.css'
 
 const montserrat = Montserrat({
@@ -30,9 +32,13 @@ export default async function LocaleLayout({
   const messages = await getMessages()
   return (
     <html lang={locale} className={`${montserrat.variable} ${inter.variable}`}>
-      <body>
+      <body style={{ margin: 0, fontFamily: 'var(--font-inter, Inter, sans-serif)', background: '#F9F9F6' }}>
         <NextIntlClientProvider messages={messages}>
-          {children}
+          <Header locale={locale} />
+          <div style={{ minHeight: 'calc(100vh - 64px)' }}>
+            {children}
+          </div>
+          <Footer locale={locale} />
         </NextIntlClientProvider>
       </body>
     </html>

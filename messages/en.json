@@ -14,13 +14,60 @@
     "updatedOn": "Updated on",
     "minuteRead": "min read",
     "tags": "Tags",
-    "relatedPosts": "Related Posts"
+    "relatedPosts": "Related Posts",
+    "noPosts": "No posts yet. Check back soon.",
+    "allPosts": "All Posts",
+    "backToBlog": "Back to Blog"
   },
   "services": {
     "getInstantQuote": "Get Instant Quote",
     "viewSample": "View Sample",
     "learnMore": "Learn More",
-    "startNow": "Start Now"
+    "startNow": "Start Now",
+    "viewPricing": "View Pricing",
+    "howItWorks": "How It Works",
+    "whatsIncluded": "What's Included",
+    "frequentlyAsked": "Frequently Asked Questions",
+    "readyToStart": "Ready to Get Started?",
+    "joinResearchers": "Join 10,000+ researchers who trust ContentConcepts with their most important work."
+  },
+  "home": {
+    "heroTitle": "Polish Your Document to Perfection",
+    "heroSubtitle": "Expert English editing and proofreading for academic manuscripts, theses, and business documents — by PhD-qualified editors.",
+    "trustedBy": "Rated 4.9/5 by 99% of customers · Trusted by 10,000+ researchers",
+    "getEdited": "Get Your Manuscript Edited",
+    "viewServices": "View Services",
+    "ourServices": "Our Editing Services",
+    "servicesSubtitle": "Expert editing across every academic and professional document type",
+    "whyChoose": "Why Researchers Choose ContentConcepts",
+    "viewAllServices": "View all 11 services →",
+    "stats": {
+      "authorsServed": "Authors Served",
+      "customerRating": "Customer Rating",
+      "turnaround": "Turnaround",
+      "satisfaction": "Satisfaction Rate"
+    },
+    "features": {
+      "phdEditors": "PhD Qualified Editors",
+      "phdEditorsDesc": "Every editor holds a doctoral degree in their field",
+      "fastTurnaround": "24–48h Turnaround",
+      "fastTurnaroundDesc": "Fast delivery without compromising quality",
+      "certificate": "Editing Certificate",
+      "certificateDesc": "Accepted by international journals worldwide",
+      "nativeEnglish": "Native English",
+      "nativeEnglishDesc": "All editors are native English speakers",
+      "confidential": "100% Confidential",
+      "confidentialDesc": "Your work is never shared or published",
+      "affordable": "Affordable Pricing",
+      "affordableDesc": "Transparent rates with no hidden fees"
+    }
+  },
+  "about": {
+    "badge": "Established 1998",
+    "title": "25 Years of Academic Excellence",
+    "missionTitle": "Our Mission",
+    "valuesTitle": "Our Values",
+    "meetEditors": "Meet Our Editors"
   },
   "forms": {
     "submit": "Submit",
@@ -34,5 +81,11 @@
     "notFound": "Page not found",
     "serverError": "Something went wrong",
     "tryAgain": "Try again"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "services": "Services",
+    "company": "Company",
+    "contact": "Contact Us"
   }
 }
